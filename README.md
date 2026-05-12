@@ -31,7 +31,7 @@ I like software where the contract is visible, state can be inspected, and agent
 | [@howells/ai](https://github.com/howells/ai) | A TypeScript AI client used in projects such as [Routerbase](https://routerbase.dev), smoothing over provider differences while keeping escape hatches available. |
 | [claudeusage](https://github.com/howells/claudeusage) | A CLI for checking Claude Code usage and limits across multiple accounts. |
 
-### Skills
+### Skills & Agentic Coding Plugins
 
 | Project | What it does |
 | --- | --- |
