@@ -65,6 +65,7 @@ The through-line is simple: make the interface honest, make the contract explici
 
 | Project | What it does |
 | --- | --- |
+| [Motif CLI](https://github.com/howells/motif-cli) | An agent-first fal.ai image generation CLI with structured output, dry runs, history, series, and terminal studio mode. |
 | [linearcli](https://github.com/howells/linearcli) | A Linear CLI for issues, projects, teams, and cycles, with structured JSON, schema introspection, and dry runs. |
 | [thingscli](https://github.com/howells/thingscli) | A Things 3 CLI that reads from the local database and writes through the URL scheme, designed for agent workflows. |
 | [starlingcli](https://github.com/howells/starlingcli) | A Starling Bank CLI for balances, transactions, and payees, with multi-account structured output. |
