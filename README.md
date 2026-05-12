@@ -1,10 +1,8 @@
 # Daniel Howells
 
-I design and build software that makes complex systems easier for people and agents to use.
+I design and build interfaces, tools, and agent systems for working with complex information. My interests are in UI, multi-agent workflows, visual analysis, retrieval, vector embeddings, and the developer infrastructure needed to make those systems reliable.
 
-Most of my work sits at the intersection of product design, TypeScript infrastructure, agent workflows, structured CLIs, and practical AI systems. I care about software that has a clear contract: typed inputs and outputs, explicit validation, dry runs, schema-aware tooling, good documentation, and enough polish that it can be used repeatedly under real pressure.
-
-I am based in London and work across product engineering, developer tooling, AI-assisted workflows, and digital systems for design, architecture, and materials.
+I am based in London and work across product engineering, AI-assisted software, design and material intelligence, and TypeScript tooling. I care about software with clear contracts: typed inputs and outputs, explicit validation, schema-aware automation, good documentation, and enough polish to be useful under real pressure.
 
 [Website](https://www.danielhowells.com/) · [npm](https://www.npmjs.com/~howells)
 
