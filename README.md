@@ -8,17 +8,6 @@ I am based in London and work across product engineering, AI-augmented software,
 
 Most of my current work is private, experimental, or not ready for primetime. Projects such as [Routerbase](https://routerbase.dev), [Faceplacer](https://faceplacer.com), [Monogrove](https://monogrove.com), and [Wiretext](https://wiretext.app) reflect active interests in model discovery, visual analysis, dependency health, and text-native design tooling, but the source is not always public yet. When a project becomes generally useful, especially tooling, I try to release it.
 
-## Developer Tooling
-
-| Project | What it is |
-| --- | --- |
-| [Arc](https://github.com/howells/arc) | An agent workflow plugin for Claude Code and Codex that takes projects from idea to reviewed, tested implementation. |
-| [Agent Surface](https://github.com/howells/agentsurface) | Docs, skills, and templates for making APIs, CLIs, MCP servers, and codebases easier for AI agents to discover and use. |
-| [Envy](https://github.com/howells/envy) | Zod-powered environment parsing and deployment preflight checks for TypeScript apps. |
-| [Envelope](https://github.com/howells/envelope) | Typed Zod I/O for local coding-agent CLIs, with wrappers for Claude Code, Codex, Gemini, and the AI SDK. |
-| [@howells/ai](https://github.com/howells/ai) | The TypeScript AI client behind projects such as [Routerbase](https://routerbase.dev), with Vercel AI Gateway defaults, provider escape hatches, model tiers, and normalized generation options. |
-| [Stacksheet](https://github.com/howells/stacksheet) | A typed React sheet-stack system for polished side panels and mobile sheets. |
-
 ## Current Work
 
 I am currently building across a few connected areas:
