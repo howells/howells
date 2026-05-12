@@ -54,8 +54,11 @@ The through-line is simple: make the interface honest, make the contract explici
 | --- | --- |
 | [Envy](https://github.com/howells/envy) | Zod-powered env parsing, strict schema-defined variables, CLI checks, and deployment-provider preflight checks. |
 | [@howells/cli](https://github.com/howells/cli) | The shared harness behind my agent-first CLIs: argument parsing, JSON output, schema exposure, and input hardening. |
+| [Srcfull](https://github.com/howells/srcfull) | Image extraction and source-resolution toolkit for finding high-quality web images from messy page markup and CDN URLs. |
 | [@howells/lint](https://github.com/howells/lint) | Pinned Biome and Ultracite presets for my TypeScript projects. |
 | [@howells/typescript-config](https://github.com/howells/typescript-config) | Pinned TypeScript config presets built around `@total-typescript/tsconfig`. |
+| [@howells/husky](https://github.com/howells/husky) | Immutable shared git hooks for keeping pre-commit and pre-push gates consistent across repos. |
+| [Scaffold](https://github.com/howells/scaffold) | An opinionated documentation scaffold and baseline for TypeScript apps, packages, and agent-ready repos. |
 | [homebrew-tap](https://github.com/howells/homebrew-tap) | The Homebrew tap for distributing command-line tools. |
 
 ### Agent-First CLIs
