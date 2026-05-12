@@ -1,6 +1,6 @@
 # Daniel Howells
 
-I build interfaces, developer tools, and agent systems for complex data and schema-heavy workflows. I am especially interested in UI, multi-agent systems, visual analysis, retrieval, vector embeddings, and the DX around making those systems easier to use.
+I build interfaces, developer tools, and agent systems for complex data and schema-heavy workflows. I am especially interested in UI, multi-agent systems, visual analysis, retrieval, vector embeddings, and agentic tooling: giving agents access to APIs in a way that is useful to them.
 
 I am based in London and work across product engineering, AI-augmented software, design and material intelligence, and TypeScript tooling. I care about typed inputs and outputs, explicit validation, schema-aware automation, good documentation, and interfaces that hold up under real usage.
 
@@ -12,7 +12,7 @@ Most of my current work is private, experimental, or not ready for primetime. Pr
 
 I am currently building in a few areas:
 
-- Agent-ready developer tools: packages, CLIs, and docs with clear schemas, examples, and operating rules.
+- Agent-ready developer tools: packages, CLIs, and docs that expose APIs through clear schemas, examples, and operating rules.
 - AI evaluation and advisory workflows: systems that turn briefs, evidence, and critique into clearer product decisions.
 - Material and architecture intelligence: product graphs, publication retrieval, image understanding, color systems, and design-reference tools for the built environment.
 - Personal and operational automation: local CLIs and small tools for making everyday workflows scriptable.
