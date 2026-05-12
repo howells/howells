@@ -26,14 +26,18 @@ I like software where the contract is visible, state can be inspected, and agent
 
 | Project | What it does |
 | --- | --- |
-| [Arc](https://github.com/howells/arc) | A workflow layer for agentic software work: ideation, implementation, testing, review, and release discipline. |
 | [Agent Surface](https://github.com/howells/agentsurface) | A guide and toolkit for exposing software to agents through docs, schemas, examples, and affordances. |
 | [Envelope](https://github.com/howells/envelope) | A package for wrapping coding-agent CLIs with typed Zod input and output contracts. |
 | [@howells/ai](https://github.com/howells/ai) | A TypeScript AI client used in projects such as [Routerbase](https://routerbase.dev), smoothing over provider differences while keeping escape hatches available. |
+| [claudeusage](https://github.com/howells/claudeusage) | A CLI for checking Claude Code usage and limits across multiple accounts. |
+
+### Skills
+
+| Project | What it does |
+| --- | --- |
+| [Arc](https://github.com/howells/arc) | A workflow layer for agentic software work: ideation, implementation, testing, review, and release discipline. |
 | [Fiction](https://github.com/howells/fiction) | A Claude Code plugin for long-form fiction work: chapters, characters, outlines, critique, and editing. |
 | [Not Just A Skill](https://github.com/howells/not-just-a-skill) | An agent skill that audits and rewrites prose that carries obvious AI-writing tells. |
-| [Sift](https://github.com/howells/sift) | An AI-powered email triage CLI for turning messy inbox state into structured, actionable output. |
-| [claudeusage](https://github.com/howells/claudeusage) | A CLI for checking Claude Code usage and limits across multiple accounts. |
 
 ### Environment, TypeScript, and Package Infrastructure
 
@@ -66,6 +70,7 @@ I like software where the contract is visible, state can be inspected, and agent
 | [Stacksheet](https://github.com/howells/stacksheet) | A React sheet-stack system with Motion animations, focus handling, safe navigation, and mobile behavior. |
 | [Boubakikid](https://github.com/howells/boubakikid) | A round ID generator based on bouba/kiki phonesthesia research. |
 | [Regexscope](https://github.com/howells/regexscope) | A visual regex debugger for seeing matches and groups in real time. |
+| [Sift](https://github.com/howells/sift) | An AI-powered email triage CLI for turning messy inbox state into structured, actionable output. |
 | [Noodles](https://github.com/howells/noodles) | A visual Node.js dev-server manager for macOS. |
 
 I keep older experiments around, but the repositories above are the public projects closest to what I am building now.
