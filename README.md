@@ -8,7 +8,7 @@ I am based in London and work across product engineering, AI-augmented software,
 
 Most of my current work is private, experimental, or not ready for primetime. Projects such as [Routerbase](https://routerbase.dev), [Faceplacer](https://faceplacer.com), [Monogrove](https://monogrove.com), and [Wiretext](https://wiretext.app) reflect active interests in model discovery, visual analysis, dependency health, and text-native design tooling, but the source is not always public yet. When a project becomes generally useful, especially tooling, I try to release it.
 
-## Start Here
+## Developer Tooling
 
 | Project | What it is |
 | --- | --- |
