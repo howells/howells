@@ -44,7 +44,6 @@ I like software where the contract is visible, state can be inspected, and agent
 | Project | What it does |
 | --- | --- |
 | [Envy](https://github.com/howells/envy) | Zod-powered env parsing, strict schema-defined variables, CLI checks, and deployment-provider preflight checks. |
-| [@howells/cli](https://github.com/howells/cli) | The shared harness behind my agent-first CLIs: argument parsing, JSON output, schema exposure, and input hardening. |
 | [Srcfull](https://github.com/howells/srcfull) | Image extraction and source-resolution toolkit for finding high-quality web images from messy page markup and CDN URLs. |
 | [@howells/lint](https://github.com/howells/lint) | Pinned Biome and Ultracite presets for my TypeScript projects. |
 | [@howells/typescript-config](https://github.com/howells/typescript-config) | Pinned TypeScript config presets built around `@total-typescript/tsconfig`. |
@@ -55,6 +54,7 @@ I like software where the contract is visible, state can be inspected, and agent
 
 | Project | What it does |
 | --- | --- |
+| [@howells/cli](https://github.com/howells/cli) | The shared harness behind my agent-first CLIs: argument parsing, JSON output, schema exposure, and input hardening. |
 | [Motif CLI](https://github.com/howells/motif-cli) | An agent-first fal.ai image generation CLI with structured output, dry runs, history, series, and terminal studio mode. |
 | [linearcli](https://github.com/howells/linearcli) | A Linear CLI for issues, projects, teams, and cycles, with structured JSON, schema introspection, and dry runs. |
 | [thingscli](https://github.com/howells/thingscli) | A Things 3 CLI that reads from the local database and writes through the URL scheme, designed for agent workflows. |
