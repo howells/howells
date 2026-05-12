@@ -1,12 +1,12 @@
 # Daniel Howells
 
-I design and build interfaces, tools, and agent systems for working with complex information. My interests are in UI, multi-agent workflows, visual analysis, retrieval, vector embeddings, and the developer infrastructure needed to make those systems reliable.
+I design and build interfaces, tools, and agent systems for working with complex data and schemas. My interests are in UI, multi-agent workflows, visual analysis, retrieval, vector embeddings, and developer tooling for better DX.
 
-I am based in London and work across product engineering, AI-assisted software, design and material intelligence, and TypeScript tooling. I care about software with clear contracts: typed inputs and outputs, explicit validation, schema-aware automation, good documentation, and enough polish to be useful under real pressure.
+I am based in London and work across product engineering, AI-augmented software, design and material intelligence, and TypeScript tooling. I care about software with clear contracts: typed inputs and outputs, explicit validation, schema-aware automation, good documentation, and enough polish to be useful under real usage.
 
 [Website](https://www.danielhowells.com/) · [npm](https://www.npmjs.com/~howells)
 
-Most of my current work is private, experimental, or not ready for primetime. Projects such as [Routerbase](https://routerbase.dev), [Faceplacer](https://faceplacer.com), [Monogrove](https://monogrove.com), and [Wiretext](https://wiretext.app) reflect active interests in model discovery, visual analysis, dependency health, and text-native design tooling, but the source is not always public yet. When a piece becomes generally useful, especially tooling, I try to release it.
+Most of my current work is private, experimental, or not ready for primetime. Projects such as [Routerbase](https://routerbase.dev), [Faceplacer](https://faceplacer.com), [Monogrove](https://monogrove.com), and [Wiretext](https://wiretext.app) reflect active interests in model discovery, visual analysis, dependency health, and text-native design tooling, but the source is not always public yet. When a project becomes generally useful, especially tooling, I try to release it.
 
 ## Start Here
 
@@ -18,7 +18,7 @@ These are the best entry points into my public work.
 | [Agent Surface](https://github.com/howells/agentsurface) | Docs, skills, and templates for making APIs, CLIs, MCP servers, and codebases easier for AI agents to discover and use. |
 | [Envy](https://github.com/howells/envy) | Zod-powered environment parsing and deployment preflight checks for TypeScript apps. |
 | [Envelope](https://github.com/howells/envelope) | Typed Zod I/O for local coding-agent CLIs, with wrappers for Claude Code, Codex, Gemini, and the AI SDK. |
-| [@howells/ai](https://github.com/howells/ai) | A unified TypeScript AI client with Vercel AI Gateway defaults, provider escape hatches, model tiers, and normalized generation options. |
+| [@howells/ai](https://github.com/howells/ai) | The TypeScript AI client behind projects such as [Routerbase](https://routerbase.dev), with Vercel AI Gateway defaults, provider escape hatches, model tiers, and normalized generation options. |
 | [Stacksheet](https://github.com/howells/stacksheet) | A typed React sheet-stack system for polished side panels and mobile sheets. |
 
 ## Current Work
@@ -28,7 +28,7 @@ I am currently building across a few connected areas:
 - Agent-ready developer tools: packages, CLIs, and docs that are safe for both humans and coding agents to operate.
 - AI evaluation and advisory workflows: systems that turn briefs, evidence, and critique into useful product decisions.
 - Material and architecture intelligence: product graphs, publication retrieval, image understanding, color systems, and design-reference tools for the built environment.
-- Personal and operational automation: local CLIs with structured JSON, schema introspection, dry runs, and read-only modes where money or accounts are involved.
+- Personal and operational automation: local CLIs and small tools that make everyday workflows more scriptable, observable, and agent-friendly.
 - Product surfaces: web apps, design systems, and small focused tools that make complicated workflows feel calmer.
 
 The through-line is simple: make the interface honest, make the contract explicit, and make the software legible enough that agents can help without guessing.
@@ -42,7 +42,7 @@ The through-line is simple: make the interface honest, make the contract explici
 | [Arc](https://github.com/howells/arc) | A practical workflow layer for agentic software work: ideation, implementation, testing, review, and release discipline. |
 | [Agent Surface](https://github.com/howells/agentsurface) | A guide and toolkit for exposing software to agents through better docs, schemas, examples, and affordances. |
 | [Envelope](https://github.com/howells/envelope) | A package for wrapping coding-agent CLIs with typed Zod input and output contracts. |
-| [@howells/ai](https://github.com/howells/ai) | A small TypeScript AI client that smooths over provider differences while keeping escape hatches available. |
+| [@howells/ai](https://github.com/howells/ai) | A TypeScript AI client used in projects such as [Routerbase](https://routerbase.dev), smoothing over provider differences while keeping escape hatches available. |
 | [Fiction](https://github.com/howells/fiction) | A Claude Code plugin for long-form fiction work: chapters, characters, outlines, critique, and editing. |
 | [Not Just A Skill](https://github.com/howells/not-just-a-skill) | An agent skill that audits and rewrites prose that carries obvious AI-writing tells. |
 | [Sift](https://github.com/howells/sift) | An AI-powered email triage CLI for turning messy inbox state into structured, actionable output. |
@@ -59,7 +59,6 @@ The through-line is simple: make the interface honest, make the contract explici
 | [@howells/typescript-config](https://github.com/howells/typescript-config) | Pinned TypeScript config presets built around `@total-typescript/tsconfig`. |
 | [@howells/husky](https://github.com/howells/husky) | Immutable shared git hooks for keeping pre-commit and pre-push gates consistent across repos. |
 | [Scaffold](https://github.com/howells/scaffold) | An opinionated documentation scaffold and baseline for TypeScript apps, packages, and agent-ready repos. |
-| [homebrew-tap](https://github.com/howells/homebrew-tap) | The Homebrew tap for distributing command-line tools. |
 
 ### Agent-First CLIs
 
@@ -81,13 +80,5 @@ The through-line is simple: make the interface honest, make the contract explici
 | [Boubakikid](https://github.com/howells/boubakikid) | A pleasant, round ID generator based on bouba/kiki phonesthesia research. |
 | [Regexscope](https://github.com/howells/regexscope) | A visual regex debugger for seeing matches and groups in real time. |
 | [Noodles](https://github.com/howells/noodles) | A visual Node.js dev-server manager for macOS. |
-| [Todoodle](https://github.com/howells/todoodle) | A small dog-care task tracker built as a Next.js demo with Arc. |
-
-### Distribution and Supporting Repositories
-
-| Project | What it does |
-| --- | --- |
-| [monogrove-releases](https://github.com/howells/monogrove-releases) | Public release artifacts for Monogrove. |
-| [howells-plugins](https://github.com/howells/howells-plugins) | Experiments and plugin packaging work. |
 
 I keep older experiments around, but the repositories above are the public projects that best represent what I am building now.
