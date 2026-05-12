@@ -18,7 +18,7 @@ I am currently building in a few areas:
 - Personal and operational automation: local CLIs and small tools for making everyday workflows scriptable.
 - Product surfaces: web apps, design systems, and focused tools for complicated workflows.
 
-The recurring pattern is simple: explicit contracts, inspectable state, and software that gives agents enough structure to help without guessing.
+I like software where the contract is visible, state can be inspected, and agents have enough structure to operate without guessing.
 
 ## Public Projects
 
