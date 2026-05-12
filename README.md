@@ -10,8 +10,6 @@ Most of my current work is private, experimental, or not ready for primetime. Pr
 
 ## Start Here
 
-These are the best entry points into my public work.
-
 | Project | What it is |
 | --- | --- |
 | [Arc](https://github.com/howells/arc) | An agent workflow plugin for Claude Code and Codex that takes projects from idea to reviewed, tested implementation. |
