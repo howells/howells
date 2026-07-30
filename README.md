@@ -1,76 +1,32 @@
 # Daniel Howells
 
-I build interfaces, developer tools, and agent systems for complex data and schema-heavy workflows. I am especially interested in UI, multi-agent systems, visual analysis, retrieval, vector embeddings, and agentic tooling: giving agents access to APIs in a way that is useful to them.
+I conceive, design and build software from first premise to production.
 
-I am based in London and work across product engineering, AI-augmented software, design and material intelligence, and TypeScript tooling. I care about typed inputs and outputs, explicit validation, schema-aware automation, good documentation, and interfaces that hold up under real usage.
+I work with founders and design-led teams on new products, prototypes, and the systems beneath them. My work moves between product strategy, interaction design, engineering, and the operating loops that turn a promising prototype into a durable product.
 
-[Website](https://www.danielhowells.com/) · [npm](https://www.npmjs.com/~howells)
+I am based in London and interested in senior product engineering, prototyping, and design-technology leadership roles.
 
-Most of my current work is private, experimental, or not ready for primetime. Projects such as [Routerbase](https://routerbase.dev), [Faceplacer](https://faceplacer.com), [Monogrove](https://monogrove.com), and [Wiretext](https://wiretext.app) cover model discovery, visual analysis, dependency health, and text-native design tooling, but the source is not always public yet. When a project becomes useful outside my own setup, especially tooling, I try to release it.
+[Portfolio](https://www.danielhowells.com/) · [npm](https://www.npmjs.com/~howells)
 
-## Current Work
+## Selected work
 
-I am currently building in a few areas:
+- **[Siteinspire](https://www.siteinspire.com/)** — an independent design reference platform I have conceived, designed, engineered, edited, and operated from day one.
+- **Material intelligence** — a connected body of private product, interface, graph, and evaluation work for making material knowledge usable. Public details are deliberately limited.
+- **Product creation and prototyping** — shipped products, native applications, editorial systems, and decision instruments spanning early premise, interaction design, implementation, and handoff.
 
-- Agent-ready developer tools: packages, CLIs, and docs that expose APIs through clear schemas, examples, and operating rules.
-- AI evaluation and advisory workflows: systems that turn briefs, evidence, and critique into clearer product decisions.
-- Material and architecture intelligence: product graphs, publication retrieval, image understanding, color systems, and design-reference tools for the built environment.
-- Personal and operational automation: local CLIs and small tools for making everyday workflows scriptable.
-- Product surfaces: web apps, design systems, and focused tools for complicated workflows.
+The fuller product story, including public and access-controlled case studies, lives on my [portfolio](https://www.danielhowells.com/).
 
-I like software where the contract is visible, state can be inspected, and agents have enough structure to operate without guessing.
+## Representative tools
 
-## Public Projects
+- **[AgentSurface](https://github.com/howells/agentsurface)** — a practical standard, scorecard, and transformation toolkit for making software useful to agents.
+- **[Arc](https://github.com/howells/arc)** — a disciplined workflow layer for taking agentic software work from premise through implementation, review, testing, and release.
+- **[WireText](https://github.com/howells/wiretext)** — an editable, text-native wireframing system: Figma, but everything is text.
+- **[Patternmode](https://github.com/howells/patternmode)** — focused React interaction patterns designed to survive real product constraints.
+- **[Motif](https://github.com/howells/motif)** — image-generation tooling built around repeatable, inspectable creative workflows.
 
-### Agent and AI Tooling
+## Product infrastructure
 
-| Project | What it does |
-| --- | --- |
-| [Agent Surface](https://github.com/howells/agentsurface) | A guide and toolkit for exposing software to agents through docs, schemas, examples, and affordances. |
-| [Envelope](https://github.com/howells/envelope) | A package for wrapping coding-agent CLIs with typed Zod input and output contracts. |
-| [@howells/ai](https://github.com/howells/ai) | A TypeScript AI client used in projects such as [Routerbase](https://routerbase.dev), smoothing over provider differences while keeping escape hatches available. |
-| [claudeusage](https://github.com/howells/claudeusage) | A CLI for checking Claude Code usage and limits across multiple accounts. |
+- **[Envelope](https://github.com/howells/envelope)** gives local coding-agent CLIs typed Zod inputs and outputs.
+- **[@howells/ai](https://github.com/howells/ai)** provides one typed TypeScript contract across model providers while preserving escape hatches.
 
-### Skills & Agentic Coding Plugins
-
-| Project | What it does |
-| --- | --- |
-| [Arc](https://github.com/howells/arc) | A workflow layer for agentic software work: ideation, implementation, testing, review, and release discipline. |
-| [Fiction](https://github.com/howells/fiction) | A Claude Code plugin for long-form fiction work: chapters, characters, outlines, critique, and editing. |
-| [Not Just A Skill](https://github.com/howells/not-just-a-skill) | An agent skill that audits and rewrites prose that carries obvious AI-writing tells. |
-
-### Environment, TypeScript, and Package Infrastructure
-
-| Project | What it does |
-| --- | --- |
-| [Envy](https://github.com/howells/envy) | Zod-powered env parsing, strict schema-defined variables, CLI checks, and deployment-provider preflight checks. |
-| [Srcfull](https://github.com/howells/srcfull) | Image extraction and source-resolution toolkit for finding high-quality web images from messy page markup and CDN URLs. |
-| [@howells/lint](https://github.com/howells/lint) | Pinned Biome and Ultracite presets for my TypeScript projects. |
-| [@howells/typescript-config](https://github.com/howells/typescript-config) | Pinned TypeScript config presets built around `@total-typescript/tsconfig`. |
-| [@howells/husky](https://github.com/howells/husky) | Immutable shared git hooks for keeping pre-commit and pre-push gates consistent across repos. |
-| [Scaffold](https://github.com/howells/scaffold) | An opinionated documentation scaffold and baseline for TypeScript apps, packages, and agent-ready repos. |
-
-### Agent-First CLIs
-
-| Project | What it does |
-| --- | --- |
-| [@howells/cli](https://github.com/howells/cli) | The shared harness behind my agent-first CLIs: argument parsing, JSON output, schema exposure, and input hardening. |
-| [Motif CLI](https://github.com/howells/motif-cli) | An agent-first fal.ai image generation CLI with structured output, dry runs, history, series, and terminal studio mode. |
-| [linearcli](https://github.com/howells/linearcli) | A Linear CLI for issues, projects, teams, and cycles, with structured JSON, schema introspection, and dry runs. |
-| [thingscli](https://github.com/howells/thingscli) | A Things 3 CLI that reads from the local database and writes through the URL scheme, designed for agent workflows. |
-| [starlingcli](https://github.com/howells/starlingcli) | A Starling Bank CLI for balances, transactions, and payees, with multi-account structured output. |
-| [wisecli](https://github.com/howells/wisecli) | A read-only Wise CLI for balances, transfers, and profiles, with multi-token support and schema introspection. |
-| [revolutcli](https://github.com/howells/revolutcli) | A read-only Revolut Business CLI for balances, transactions, and accounts using OAuth and JWT auth. |
-| [godaddy-cli](https://github.com/howells/godaddy-cli) | A scriptable GoDaddy DNS CLI for humans and automation. |
-
-### UI, Apps, and Focused Tools
-
-| Project | What it does |
-| --- | --- |
-| [Stacksheet](https://github.com/howells/stacksheet) | A React sheet-stack system with Motion animations, focus handling, safe navigation, and mobile behavior. |
-| [Boubakikid](https://github.com/howells/boubakikid) | A round ID generator based on bouba/kiki phonesthesia research. |
-| [Regexscope](https://github.com/howells/regexscope) | A visual regex debugger for seeing matches and groups in real time. |
-| [Sift](https://github.com/howells/sift) | An AI-powered email triage CLI for turning messy inbox state into structured, actionable output. |
-| [Noodles](https://github.com/howells/noodles) | A visual Node.js dev-server manager for macOS. |
-
-I keep older experiments around, but the repositories above are the public projects closest to what I am building now.
+GitHub is the working catalog; the portfolio is the edited argument.
