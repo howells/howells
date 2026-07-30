@@ -21,7 +21,7 @@ The fuller product story, including public and access-controlled case studies, l
 - **[AgentSurface](https://github.com/howells/agentsurface)** — a practical standard, scorecard, and transformation toolkit for making software useful to agents.
 - **[Arc](https://github.com/howells/arc)** — a disciplined workflow layer for taking agentic software work from premise through implementation, review, testing, and release.
 - **[WireText](https://github.com/howells/wiretext)** — an editable, text-native wireframing system: Figma, but everything is text.
-- **[Patternmode](https://github.com/howells/patternmode)** — focused React interaction patterns designed to survive real product constraints.
+- **[Patternmode](https://patternmode.com/)** — focused React interaction patterns designed to survive real product constraints. Its source repository remains private pending a history audit.
 - **[Motif](https://github.com/howells/motif)** — image-generation tooling built around repeatable, inspectable creative workflows.
 
 ## Product infrastructure
